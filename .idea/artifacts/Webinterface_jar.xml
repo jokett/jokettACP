@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Webinterface:jar">
+    <output-path>$USER_HOME$/Desktop/spigot/plugins</output-path>
+    <root id="archive" name="Webinterface_jar.jar">
+      <element id="module-output" name="Webinterface" />
+    </root>
+  </artifact>
+</component>
